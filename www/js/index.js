@@ -26,7 +26,7 @@
 
 var app = {
     // global vars
-    autoShowInterstitial: false,
+    autoShowInterstitial: true,
     progressDialog: document.getElementById("progressDialog"),
     spinner: document.getElementById("spinner"),
     weinre: {
