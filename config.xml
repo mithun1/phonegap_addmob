@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.appfeel.admob.test" version="1.1.0" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-  <name>AdMobTest</name>
+  <name>AdMobTest2</name>
   <description>
-    App1
+    App2
   </description>
   <author email="info@appfeel.com" href="https://github.com/appfeel/admob-google-cordova">Appmob</author>
   <content src="index.html" />
